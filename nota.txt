@@ -1,0 +1,4 @@
+api com NodeJs
+
+comando para api rodar.
+nodemon server
